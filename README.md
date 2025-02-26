@@ -38,7 +38,7 @@ For normal motion, the velocity should be between 5 m/s and 100 m/s. Too low a v
 
 ### Steps to run:
 
-- Run script:
+- Run script: ATESTAT.cbp
 - Select *Open an existing project* and tap on the folder that contain the project.
 - Go to *Settings->Compiler->Toolchain executables* then choose *ATESTAT.exe* for *C compiler, C++ compiler, Linker for dynamic libs, Linker for static libs, Resource compiler and Make program*, and for *Debbuger* choose *GDB/CDB debugger : Default.*
 - Then press *Debug* and introduce the velocity, angle and mass and press *enter*.
