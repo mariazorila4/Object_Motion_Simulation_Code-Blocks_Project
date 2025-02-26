@@ -1,4 +1,4 @@
-# Object_Motion_Somulation_Code-Blocks_Project
+# Object_Motion_Simulation_Code-Blocks_Project
 This project simulates the motion of an object in a 2D plane, taking into account factors like velocity, angle of launch, mass, and the calculation of kinetic and potential energy. The object moves according to the laws of physics, and the results are displayed in real-time on a graphical interface. The simulation uses C++ and the graphics.h library, allowing for visual representation of the object's motion in relation to its position on the x and y axes.
 
 ## **Project Overview**
