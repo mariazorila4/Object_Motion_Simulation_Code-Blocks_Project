@@ -1,4 +1,13 @@
 # Object_Motion_Simulation_Code-Blocks_Project
+
+<p align="center">
+  <img src="object simulation phisics app in code blocks program.jpg" alt="Logo" width="600">
+</p>
+<p align="center">
+  <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
+  If this image presents an issue, please feel free to contact me.</em>
+</p>
+
 This project simulates the motion of an object in a 2D plane, taking into account factors like velocity, angle of launch, mass, and the calculation of kinetic and potential energy. The object moves according to the laws of physics, and the results are displayed in real-time on a graphical interface. The simulation uses C++ and the graphics.h library, allowing for visual representation of the object's motion in relation to its position on the x and y axes.
 
 ## **Project Overview**
